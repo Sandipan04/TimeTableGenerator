@@ -75,4 +75,5 @@ for course in loaded_management.get_courses():
     print(course)
 
 # List courses with student count
-loaded_management.list_courses_with_student_count()```
+loaded_management.list_courses_with_student_count()
+```
